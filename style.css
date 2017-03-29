@@ -1,7 +1,11 @@
 /*
 Theme Name: TrickPlayGaming
 Author: PressXtoWin
-Author URI: github.com./PressXtoWin
+Author URI: https://github.com./PressXtoWin
 Description: Theme for game developers team, chat, blog and community
 Version: 1.0
 */
+body {
+    background-color: #232d2e;
+    color : #ffffff;
+    }
